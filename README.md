@@ -89,7 +89,7 @@ Feel free to fork, open issues, or submit pull requests to contribute to HematoV
 This project is licensed under the MIT License. See LICENSE for more details.
 
 📫 Contact
-Hemanth Yarra
-LinkedIn | hemanthyarra@gmail.com
+
+LinkedIn | 
 
 Let me know if you'd like a version with badges, screenshots, or setup for GitHub Pages.
